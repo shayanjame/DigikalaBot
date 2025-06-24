@@ -1,0 +1,5 @@
+crawler: 
+  url_get_products: "https://api.digikala.com/v1/categories/{category}/brands/{brand}/search/?page={page}"
+  url_get_product_detail: "https://api.digikala.com/v2/product/{productid}/"
+  category: "notebook-netbook-ultrabook"
+  brand: "lenovo"
